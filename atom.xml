@@ -4,7 +4,7 @@
   <title><![CDATA[小豆的小店]]></title>
   <link href="http://renhongyuq.github.io/test007/atom.xml" rel="self"/>
   <link href="http://renhongyuq.github.io/test007/"/>
-  <updated>2014-04-28T14:45:08+02:00</updated>
+  <updated>2014-04-28T14:55:19+02:00</updated>
   <id>http://renhongyuq.github.io/test007/</id>
   <author>
     <name><![CDATA[小豆]]></name>
@@ -14,17 +14,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[mittval]]></title>
+    <link href="http://renhongyuq.github.io/test007/blog/2014/04/28/mittval/"/>
+    <updated>2014-04-28T14:55:01+02:00</updated>
+    <id>http://renhongyuq.github.io/test007/blog/2014/04/28/mittval</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Pharbio]]></title>
     <link href="http://renhongyuq.github.io/test007/blog/2014/04/28/pharbio/"/>
     <updated>2014-04-28T12:38:41+02:00</updated>
     <id>http://renhongyuq.github.io/test007/blog/2014/04/28/pharbio</id>
-    <content type="html"><![CDATA[<p>鱼油是个好东西啦啦啦</p>
+    <content type="html"><![CDATA[<p>🐱</p>
 
 <p><img class="left" src="http://renhongyuq.github.io/test007/images/2014/04/pharbio1.png" width="350" height="350"></p>
 
-<p>猫猫猫猫🐱</p>
+<p>爱斯基摩儿童omega3口服鱼油是专门为1到12岁小朋友成长需要设计的一款膳食补充剂，其中含有的最重要元素omega3是未经人工加工的的脂肪酸，完好的保存了omega3丰富的原始自然形态。</p>
 
-<p><img class="center" src="http://renhongyuq.github.io/test007/images/2014/04/pharbio2.png" width="350" height="350"></p>
+<p>这款儿童鱼油不仅含有omega3，还富含omega6，omega9以及维生素D，维生素D是儿童骨骼正常发育所必需的一种维生素。但是omega6和omega9又是神马呢，小豆还是来翻译瑞典食品管理局上的解释吧～</p>
+
+<p>Omega 3和Omega6是最重要的两种不饱和脂肪酸是身体的必需品，因为身体本身并不能制造他们，所以我们必须通过食物中获取。</p>
+
+<p>Omega6在食物中通常较为普遍且含量较高，例如会存在于芝麻油，大豆油和葵花油中，所以对于成人来说一般都能摄取到足够的身体所需要的量，但是对于儿童则不然，尤其是年纪较小的儿童，很可能从食物中无法摄取到足够的omega6。</p>
+
+<p>omega3和omega6在身体中起着各种各样的作用，例如建立和修复细胞，影响调节血压和肾脏功能，调节免疫系统等等。对于胎儿和儿童来说，omega3和omega6都是生长发育正常所必备的。</p>
+
+<p>Omega9是一种人体内可以自己合成的非必要脂肪酸，成人一般不需要补充但是儿童需要哈～</p>
+
+<p><img class="left" src="http://renhongyuq.github.io/test007/images/2014/04/pharbio2.png" width="350" height="350"></p>
+
+<p><img class="left" src="http://renhongyuq.github.io/test007/images/2014/04/pharbio3.png" width="350" height="350"></p>
+
+<p><img class="left" src="http://renhongyuq.github.io/test007/images/2014/04/pharbio4.png" width="350" height="350"></p>
 ]]></content>
   </entry>
   
