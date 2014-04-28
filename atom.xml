@@ -4,7 +4,7 @@
   <title><![CDATA[小豆的小店]]></title>
   <link href="http://renhongyuq.github.io/test007/atom.xml" rel="self"/>
   <link href="http://renhongyuq.github.io/test007/"/>
-  <updated>2014-04-28T15:52:55+02:00</updated>
+  <updated>2014-04-28T15:59:03+02:00</updated>
   <id>http://renhongyuq.github.io/test007/</id>
   <author>
     <name><![CDATA[小豆]]></name>
@@ -23,11 +23,11 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[mepiform]]></title>
+    <title type="html"><![CDATA[美皮护]]></title>
     <link href="http://renhongyuq.github.io/test007/blog/2014/04/28/mepiform/"/>
     <updated>2014-04-28T15:51:46+02:00</updated>
     <id>http://renhongyuq.github.io/test007/blog/2014/04/28/mepiform</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><img class="left" src="http://renhongyuq.github.io/test007/images/2014/mepiform/mepiform.png" width="350" height="350"></p>
 ]]></content>
   </entry>
   
@@ -37,6 +37,8 @@
     <updated>2014-04-28T14:55:01+02:00</updated>
     <id>http://renhongyuq.github.io/test007/blog/2014/04/28/mittval</id>
     <content type="html"><![CDATA[<p>维生素</p>
+
+<p><img class="left" src="http://renhongyuq.github.io/test007/images/2014/mittval/man.png" width="350" height="350"></p>
 ]]></content>
   </entry>
   
