@@ -4,7 +4,7 @@
   <title><![CDATA[小豆的小店]]></title>
   <link href="http://renhongyuq.github.io/test007/atom.xml" rel="self"/>
   <link href="http://renhongyuq.github.io/test007/"/>
-  <updated>2014-04-28T14:23:44+02:00</updated>
+  <updated>2014-04-28T14:32:31+02:00</updated>
   <id>http://renhongyuq.github.io/test007/</id>
   <author>
     <name><![CDATA[小豆]]></name>
@@ -20,11 +20,11 @@
     <id>http://renhongyuq.github.io/test007/blog/2014/04/28/pharbio</id>
     <content type="html"><![CDATA[<p>鱼油是个好东西啦啦啦</p>
 
-<p><img class="left" src="http://renhongyuq.github.io/test007/images/2014/04/pharbio1.png" width="350" height="350" title="image" alt="images"></p>
+<p><img class="left" src="http://renhongyuq.github.io/test007/images/2014/04/pharbio1.png" width="350" height="350"></p>
 
 <p>猫猫猫猫🐱</p>
 
-<p><img class="left" src="http://renhongyuq.github.io/test007/source/images/2014/04/pharbio2.png" width="350" height="350" title="" ></p>
+<p><img class="right" src="http://renhongyuq.github.io/test007/images/2014/04/pharbio2.png" width="350" height="350" title="" ></p>
 ]]></content>
   </entry>
   
