@@ -4,7 +4,7 @@
   <title><![CDATA[面包小豆]]></title>
   <link href="http://renhongyuq.github.io/test007/atom.xml" rel="self"/>
   <link href="http://renhongyuq.github.io/test007/"/>
-  <updated>2014-04-28T12:37:29+02:00</updated>
+  <updated>2014-04-28T12:43:40+02:00</updated>
   <id>http://renhongyuq.github.io/test007/</id>
   <author>
     <name><![CDATA[Xiaoao]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pharbio]]></title>
+    <link href="http://renhongyuq.github.io/test007/blog/2014/04/28/pharbio/"/>
+    <updated>2014-04-28T12:38:41+02:00</updated>
+    <id>http://renhongyuq.github.io/test007/blog/2014/04/28/pharbio</id>
+    <content type="html"><![CDATA[<p>鱼油是个好东西啦啦啦</p>
+]]></content>
+  </entry>
   
 </feed>
